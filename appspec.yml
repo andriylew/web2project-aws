@@ -1,7 +1,7 @@
 version:0.0
 os: linux
 files:
-  - source: /app/web2project
+  - source: app/web2project
     destination: /var/www/html
 hooks:
   ApplicationStart:
